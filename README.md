@@ -65,6 +65,9 @@
 
 ## 📌 Featured Projects
 
+🏥 **[MediCore](https://github.com/Knight6azer/MediCore)**  
+AI-powered healthcare dashboard featuring a clinic management system with real-time analytics and an AI symptom checker.
+
 🌾 **[Krishi Kaar](https://github.com/Knight6azer/Krishi_Kaar)**  
 AI-powered agricultural assistant helping farmers with crop recommendations, disease detection, and market insights.
 
