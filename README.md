@@ -1,54 +1,55 @@
 # 👋 Hi, I'm Ujjwal Suneel Tiwari
 
-<p>
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=Knight6azer&title=Profile%20Views" 
-    alt="Profile Views"
-  />
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Knight6azer&title=Profile%20Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Knight6azer?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
 </p>
 
-🎓 B.E. in Electronics & Computer Science @ **Shree L.R. Tiwari College of Engineering (2023-2027)**  
-💡 Working at the intersection of **Data Science, AI/ML, and Embedded Systems**  
-🌱 Currently exploring **Predictive Analytics**, **NLP**, and **IoT-based Smart Solutions**  
-🏅 **Media Co-Head, R&D Cell** at SLRTCE — driving innovation at every step
+🎓 **T.E. in Electronics & Computer Science** @ _Shree L.R. Tiwari College of Engineering (2023-2027)_  
+💡 Specialized in **Data Science, AI/ML, and Embedded Systems**  
+🌱 Currently building **Predictive Analytics**, **NLP**, and **IoT-based Smart Solutions**  
+🏅 **Media Co-Head, R&D Cell** — Driving innovation and interdisciplinary research
 
-> I craft intelligent solutions that bridge software and hardware —  
-> from predictive analytics dashboards to IoT security systems.
+> *I craft intelligent solutions that bridge software and hardware —  
+> from predictive analytics dashboards to complex IoT ecosystems.*
 
 ---
 
-## 🛠️ Tech Snapshot
+## 🛠️ Tech Stack & Toolbox
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
-</p>
+<div align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
+</div>
 
-<p align="center">
-  <!-- Data Science & AI/ML -->
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square"/>
-</p>
+<br/>
 
-<p align="center">
-  <!-- Embedded & IoT -->
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/IoT-0078D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square"/>
-</p>
+<div align="left">
+  <!-- AI/ML & Data -->
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" alt="Streamlit"/>
+</div>
+
+<br/>
+
+<div align="left">
+  <!-- Embedded & Tools -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=flat-square" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/IoT-0078D4?style=flat-square" alt="IoT"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="VS Code"/>
+</div>
 
 ---
 
@@ -65,35 +66,53 @@
 
 ## 📌 Featured Projects
 
-🏥 **[MediCore](https://github.com/Knight6azer/MediCore)**  
-AI-powered healthcare dashboard featuring a clinic management system with real-time analytics and an AI symptom checker.
+🌸 **[Quirky_Dweed](https://github.com/Knight6azer/Quirky_Dweed)**  
+A comprehensive platform for Spirit Blossom enthusiasts to explore character profiles, track meta-tier lists, and engage with community resources.  
+`React` `Tailwind CSS` `Spider-API` `Community-Driven`
+
+🎙️ **[CRM Voice Agent](https://github.com/Knight6azer/CRM-Voice-Agent)**  
+A scalable AI-powered voice assistant designed for real estate CRM. Handles bilingual conversations (Hindi/English) and manages inquiries using Twilio and Groq AI.  
+`Python` `Twilio` `Groq-AI` `Real-Estate`
 
 🌾 **[Krishi Kaar](https://github.com/Knight6azer/Krishi_Kaar)**  
-AI-powered agricultural assistant helping farmers with crop recommendations, disease detection, and market insights.
+IoT-powered agricultural ecosystem tracking soil health, weather, and water quality to empower farmers with data-driven insights.  
+`IoT` `Python` `Flask` `Agriculture`
+
+🏥 **[MediCore](https://github.com/Knight6azer/MediCore)**  
+Full-stack clinic management system with a premium dark SaaS dashboard, role-based access, and an integrated AI symptom checker.  
+`Full-Stack` `AI` `Analytics` `Healthcare`
 
 📈 **[Business Insights Analytics](https://github.com/Knight6azer/Business-Insights-Analytic)**  
-Predictive analysis tool for business decisions using AI, CRM insights, and interactive dashboards.
+Unified Python AIML Platform for Business Intelligence, offering AI-driven insights, CRM capabilities, and high-performance predictive analytics.  
+`Python` `ML` `Predictive-Analytics` `Dashboards`
 
-🛡 **[Fake News Detector](https://github.com/Knight6azer/Fake-News-Detector)**  
-NLP-powered web app classifying news articles as real or fake with confidence scores and word highlights.
+🛡️ **[Fake News Detector](https://github.com/Knight6azer/Fake-News-Detector)**  
+Advanced NLP-powered web app for real-time news classification featuring dual AI models, RESTful API, and a modern React frontend.  
+`NLP` `Deep-Learning` `React` `Flask`
 
 🧠 **[Emotional Wellbeing Recommender](https://github.com/Knight6azer/Emotional-Wellbeing-Recommender)**  
-AI/ML-based recommendation model for emotional wellness, mental health support, and activity suggestions.
+A multimodal emotion app combining visual, textual, and audio inputs to provide personalized wellbeing and mental health recommendations.  
+`AI/ML` `Multimodal` `Wellness` `Python`
 
-🏠 **[Smart Home Security System](https://github.com/Knight6azer/Smart-Home-Security-System)**  
-IoT-based security system using Arduino, sensors, and a Telegram bot for real-time safety alerts.
+🌧️ **[Acid Rain Analysis Model](https://github.com/Knight6azer/Edunet_DA_Project)**  
+Environmental data analysis model predicting pH levels and acid rain behavior across India using air quality and chemical ion data.  
+`Data-Science` `EDA` `Environmental-Analysis`
 
 📅 **[Schedule Manager](https://github.com/Knight6azer/Schedule-Manager)**  
-Full-featured task and schedule management web application with authentication and productivity analytics.
+Robust task and productivity management web application with authentication, built for efficiency and organized workflow.  
+`Flask` `SQLite` `Web-App` `Order-Management`
 
-🌧 **[Acid Rain Analysis Model](https://github.com/Knight6azer/Acid-Rain-Analysis-Model)**  
-Environmental data analysis model to detect and predict acid rain patterns using sensor data and ML.
+🏠 **[Smart Home Security System](https://github.com/Knight6azer/Smart-Home-Security-System)**  
+IoT-based security alarm system using Arduino Uno and various sensors, providing real-time alerts via a dedicated Telegram Bot.  
+`Embedded-Systems` `Arduino` `IoT` `Security`
 
 🛒 **[Vegetable Vendor App](https://github.com/Knight6azer/Vegetable_Vendor_App)**  
-Ordering and billing system for vegetable vendors using Python with JSON-based data persistence.
+Streamlined Streamlit-based operations system for local vendors, handling inventory management, billing, and sales analytics.  
+`Streamlit` `Python` `Inventory-Management`
 
-🌡 **[Temperature Humidity Analysis](https://github.com/Knight6azer/Temperature-Humidiy-Analysis)**  
-Analysis of environmental temperature and humidity data collected via IoT sensors with Python visualizations.
+🌡️ **[Temperature Humidity Analysis](https://github.com/Knight6azer/Temperature-Humidity-Analysis)**  
+IoT data processing system that gathers sensor readings via Arduino, filters environmental data, and generates visual scatter graphs.  
+`IoT` `Data-Processing` `Matplotlib` `Arduino`
 
 ---
 
